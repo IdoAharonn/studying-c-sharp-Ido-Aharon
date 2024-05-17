@@ -1,2 +1,8 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using studying_c_sharp_Ido_Aharon;
+internal class Program
+{
+    private static void Main(string[] args)
+    {
+        Level1.RunMe();
+    }
+}

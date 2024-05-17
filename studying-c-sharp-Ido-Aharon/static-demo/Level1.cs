@@ -11,6 +11,8 @@ namespace studying_c_sharp_Ido_Aharon
         public static void RunMe()
         {
             Console.WriteLine("“Hi, I am class Level1");
+            Level2.RunMe();
+
         }
     }
 }
