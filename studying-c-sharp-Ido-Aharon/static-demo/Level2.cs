@@ -12,6 +12,7 @@ namespace studying_c_sharp_Ido_Aharon
         {
             Console.WriteLine("“Hi, I am class Level2");
             Level_3_1.RunMe();
+            Level_3_2.RunMe();
         }
     }
 }
